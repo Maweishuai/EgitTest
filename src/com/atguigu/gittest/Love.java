@@ -6,6 +6,8 @@ public class Love {
 		// TODO Auto-generated method stub
 		System.out.println("我喜欢你------Maweishuai");
 		System.out.println("c123421");
+		System.out.println("test pull");
+		
 	}
 
 }
